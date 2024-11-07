@@ -1,0 +1,304 @@
+#HTML Code
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DudeTube</title>
+    <link rel="stylesheet" href="DudeTube.css">
+</head>
+<body>
+    <nav class="nav-div">
+        <div class="nav-left nav-div">
+            <img src="menu.png" alt="error" class="menu">
+            <img src="ylogo.png" alt="error" class="logo">
+        </div>
+
+        <div class="nav-center nav-div">
+            <div class="search-box nav-div">
+                <input type="text" placeholder="Search">
+                <img src="search.png" alt="error">
+            </div>
+            <img src="voice-search.png" alt="error" class="mic">
+        </div>
+        <div class="nav-right nav-div">
+            <img src="upload.png" alt="error">
+            <img src="more.png" alt="error">
+            <img src="notification.png" alt="error">
+            <a href=""></a><img src="avatar1.jpg" alt="error" class="channel-logo">
+        </div>
+    </nav>
+    <!--end code for nav bar-->
+
+    <!--code for side bar--> 
+    <div class="sidebar">
+        <div class="links">
+           <a href=""><img src="home.png" alt="error"><p>Home</p></a>
+           <a href=""><img src="explore.png" alt="error"><p>Explore</p></a>
+           <a href=""><img src="subscription.png" alt="error"><p>Subscription</p></a>
+           <a href=""><img src="library.png" alt="error"><p>Library</p></a>
+           <a href=""><img src="history.png" alt="error"><p>History</p></a>
+           <a href=""><img src="playlist.png" alt="error"><p>Playlist</p></a>
+           <a href=""><img src="messages.png" alt="error"><p>Message</p></a>
+           <a href=""><img src="show-more.png" alt="error"><p>Show More</p></a>
+           
+           <hr>
+        </div>
+        <div class="subscribed">
+            <h3>Subscribed</h3>
+            <a href=""><img src="avatar2.jpg" alt="error"><p>Ritek Mehta</p></a>
+            <a href=""><img src="avatar1.jpg" alt="error"><p>Hustler's Mania</p></a>
+            <a href=""><img src="avatar3.jpg" alt="error"><p>Kalamkaar</p></a>
+            <a href=""><img src="avatar4.jpg" alt="error"><p>Seedhe Maut</p></a>
+            <a href=""><img src="avatar5.jpg" alt="error"><p>Kalamkar</p></a>
+        </div>
+    </div>
+<div class="container">
+    <div class="banner">
+        <img src="banner.png" alt="error">
+    </div>
+    <div class="list-container">
+        <div class="video-list">
+            <a href="video.html"><img src="thumbnail1.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="video.html">Seedhe Maut - NAMUNA/ SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video2.html"><img src="thumbnail2.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="video2.html">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video3.html"><img src="thumbnail3.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video4.html"><img src="thumbnail4.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video5.html"><img src="thumbnail5.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video6.html"><img src="thumbnail6.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video7.html"><img src="thumbnail7.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video8.html"><img src="thumbnail8.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href="video9.html"><img src="thumbnail9.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail10.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail11.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail12.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail13.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail14.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail15.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail16.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail17.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail18.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-list">
+            <a href=""><img src="thumbnail19.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+        <div class="video-list">
+            <a href=""><img src="thumbnail20.png" alt="error" class="thumbnil">
+            <div class="nav-div">
+                <img src="cwlogo.jpg" alt="error">
+                <div class="video-info">
+                    <a href="">Seedhe Maut - NAMUNA / SRK</a>
+                    <p>Seedhe Maut</p>
+                    <p>642K views &bull; 2 weeks ago</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>   
+<script type="text/javascript" src="DudeTube.js"></script>
+</body>
+</html>
